@@ -1,0 +1,83 @@
+[
+    {
+        "key":"Formáli og vitni",
+        "name": "Formáli og vitni",
+        "chapters": 1
+    },
+
+    {
+        "key": "first_nephi_",
+        "name": "1 Nefí",
+        "chapters": 22
+    },
+    {
+        "key": "second_nephi_",
+        "name": "2 Nefí",
+        "chapters": 33
+    },
+    {
+        "key": "jakob_",
+        "name": "Jakob",
+        "chapters": 7
+    },
+    {
+        "key": "enos_",
+        "name": "Enos",
+        "chapters": 1
+    },
+    {
+        "key": "jarom_",
+        "name": "Jarom",
+        "chapters": 1
+    },
+    {
+        "key": "omni_",
+        "name": "Omní",
+        "chapters": 1
+    },
+    {
+        "key": "words_of_mormon_",
+        "name": "Orð Mormóns",
+        "chapters": 1
+    },
+    {
+        "key": "mosiah_",
+        "name": "Mósía",
+        "chapters": 29
+    },
+    {
+        "key": "alma_",
+        "name": "Alma",
+        "chapters": 63
+    },
+    {
+        "key": "helaman_",
+        "name": "Helaman",
+        "chapters": 16
+    },
+    {
+        "key": "third_nephi_",
+        "name": "3 Nefí",
+        "chapters": 30
+    },
+    {
+        "key": "fourth_nephi_",
+        "name": "4 Nefí",
+        "chapters": 1
+    },
+    {
+        "key": "mormon_",
+        "name": "Mormón",
+        "chapters": 9
+    },
+    {
+        "key": "ether_",
+        "name": "Eter",
+        "chapters": 15
+    },
+    {
+        "key": "moroni_",
+        "name": "Moróní",
+        "chapters": 10
+    }
+]
