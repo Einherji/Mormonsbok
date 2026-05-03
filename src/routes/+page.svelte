@@ -24,10 +24,11 @@
 <div class="max-w-lg mx-auto px-4 pt-10 pb-4">
 	<!-- Header -->
 	<div class="mb-8">
-		<p class="text-text-secondary text-xs font-semibold tracking-widest uppercase mb-1.5">
-			Íslenska hljóðbók
-		</p>
+
 		<h1 class="text-3xl font-bold text-text-primary tracking-tight">Mormónsbók</h1>
+		<p class="text-text-secondary text-xs font-semibold tracking-widest uppercase mt-1.5">
+			hljóðbók á Íslensku
+		</p>
 	</div>
 
 	<!-- Continue / Now playing -->
