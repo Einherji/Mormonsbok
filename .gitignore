@@ -1,0 +1,14 @@
+.svelte-kit/
+node_modules/
+build/
+dist/
+.env.local
+.env.production
+
+# IDE
+.idea/
+.vscode/
+.claude/
+
+# Audio files are hosted on R2, not in the repo
+Audio/
