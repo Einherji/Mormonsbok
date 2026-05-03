@@ -59,6 +59,7 @@
 			if (url) {
 				audio.src = url;
 				audio.load();
+				audio.playbackRate = player.playbackRate;
 				if (isPlaying) audio.play().catch(console.error);
 			} else {
 				audio.pause();
