@@ -5,21 +5,26 @@ export default {
 	theme: {
 		extend: {
 			colors: {
-				background: '#0f0d0b',
+				background: '#080f1c',
 				surface: {
-					DEFAULT: '#1a1917',
-					elevated: '#252320',
-					overlay: '#2e2b28'
+					DEFAULT: '#0d1829',
+					elevated: '#132238',
+					overlay: '#1a2d45'
 				},
 				accent: {
 					DEFAULT: '#d4a853',
 					hover: '#e0b96a',
 					muted: '#8a6a2e'
 				},
+				primary: {
+					DEFAULT: '#2b6cb8',
+					hover: '#3a7dd0',
+					muted: '#1a4a8a'
+				},
 				text: {
-					primary: '#f0ebe2',
-					secondary: '#a89f92',
-					muted: '#6b6560'
+					primary: '#e8f0f8',
+					secondary: '#7a99b8',
+					muted: '#4a6580'
 				}
 			},
 			fontFamily: {

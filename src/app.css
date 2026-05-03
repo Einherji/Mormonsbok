@@ -22,7 +22,7 @@ body {
 	background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-	background: #3d3a36;
+	background: #1a2d45;
 	border-radius: 2px;
 }
 
@@ -38,7 +38,7 @@ input[type='range'].player-slider {
 	background: linear-gradient(
 		to right,
 		#d4a853 var(--pct, 0%),
-		#3d3a36 var(--pct, 0%)
+		#1a2d45 var(--pct, 0%)
 	);
 }
 
